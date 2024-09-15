@@ -2,7 +2,6 @@
 
 Built with the Next.js 13.5 App Router, tRPC, TypeScript, Prisma & Tailwind
 
-![Project Image](https://github.com/joschan21/quill/blob/master/public/thumbnail.png)
 
 ## Features
 
@@ -23,22 +22,3 @@ Built with the Next.js 13.5 App Router, tRPC, TypeScript, Prisma & Tailwind
 - 📊 Prisma as our ORM
 - 🔤 100% written in TypeScript
 - 🎁 ...much more
-
-## Getting started
-
-To get started with this project, run
-
-```bash
-  git clone https://github.com/joschan21/quill.git
-```
-
-and copy the .env.example variables into a separate .env file, fill them out & and that's all you need to get started!
-
-
-## Acknowledgements
-
-- [Kinde Auth](https://link.joshtriedcoding.com/kinde) for making this project possible
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
