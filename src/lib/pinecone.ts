@@ -16,6 +16,6 @@
 
 // export const getPineconeClient = async()=>{
 //   const client = new Pinecone({
-//     apiKey: 'a8963f3b-d7e9-4605-84d8-7f99a2827ee9'
+//     apiKey: process.env.PINECONE_API_KEY!
 //   })
 // }
